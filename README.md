@@ -1,12 +1,8 @@
 # Ruby Theme Dark
 
-### O tema Draquinho para o Visual Studio Code oferece uma experiência de desenvolvimento única, combinando elegância visual e funcionalidade intuitiva. Este tema apresenta uma paleta de cores suaves que proporcionam conforto visual durante longas sessões de codificação.
+### Explore a elegância e a eficiência da programação com o tema Ruby Dark para o Visual Studio Code. Este tema escuro foi cuidadosamente projetado para proporcionar uma experiência de codificação envolvente.
 
-![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215713.png?raw=true)
-
-![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215744.png?raw=true)
-
-![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215812.png?raw=true)
+![](https://github.com/NoslekCode/Ruby_Theme_Dark/blob/main/Captura%20de%20tela%202023-11-13%20151158.png?raw=true)
 
 ### Desenvolvedor do tema Kelson Carvalho
 
