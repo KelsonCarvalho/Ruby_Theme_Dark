@@ -1,0 +1,27 @@
+{
+  "name": "rubythemedarks",
+  "displayName": "rubyThemeDarks",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "icon": "icon.png",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/NoslekCode/vscode-pink-and-puple-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "kelsoncarvalho",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ruby Theme Darks",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ruby Theme Darks-color-theme.json"
+      }
+    ]
+  }
+}
