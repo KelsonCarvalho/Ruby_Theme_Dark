@@ -1,16 +1,14 @@
-# rubythemedarks README
+# Ruby Theme Dark
 
-## Working with Markdown
+### O tema Draquinho para o Visual Studio Code oferece uma experiência de desenvolvimento única, combinando elegância visual e funcionalidade intuitiva. Este tema apresenta uma paleta de cores suaves que proporcionam conforto visual durante longas sessões de codificação.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215713.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215744.png?raw=true)
 
-## For more information
+![](https://github.com/NoslekCode/draquinho/blob/main/Captura%20de%20tela%202023-10-19%20215812.png?raw=true)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Desenvolvedor do tema Kelson Carvalho
 
-**Enjoy!**
+* GITHUB: https://github.com/NoslekCode
+* FACEBOOK: https://www.facebook.com/kelsoncarvalhoo
