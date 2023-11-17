@@ -3,7 +3,7 @@
 Todas as alterações notáveis ​​na extensão "draquinho" serão documentadas neste arquivo.
 
 ### Adicionado
-- [1.0.1] 13/11/2023
+- [1.0.2] 13/11/2023
 - Trocando a logo do tema
 - Activity Bar Modificando as cores
 - Side Bar Modificando as cores
@@ -24,7 +24,11 @@ Todas as alterações notáveis ​​na extensão "draquinho" serão documentad
 - Editor Modificando as cores
 - Diff Editor Modificando as cores
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+##
+- [1.0.3] 17/11/2023
+- Modificando progressBar.background "#d82536",
+para progressBar.background "#FFFFFF".
 
-## [Unreleased]
+
+
 
