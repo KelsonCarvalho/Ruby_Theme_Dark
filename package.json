@@ -2,7 +2,7 @@
   "name": "rubythemedarks",
   "displayName": "Ruby Theme Dark",
   "description": "Explore a elegância e a eficiência da programação com o tema Ruby Dark para o Visual Studio Code. Este tema escuro foi cuidadosamente projetado para proporcionar uma experiência de codificação envolvente.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.84.0"
   },

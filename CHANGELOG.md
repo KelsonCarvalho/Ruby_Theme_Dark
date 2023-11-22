@@ -29,6 +29,8 @@ Todas as alterações notáveis ​​na extensão "draquinho" serão documentad
 - Modificando progressBar.background "#d82536",
 para progressBar.background "#FFFFFF".
 
-
+##
+- [1.0.4] 22/11/2023
+- Modificando as cores e algumas correçoes background removendo bordas .
 
 
